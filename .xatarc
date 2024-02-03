@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Philemon-Forson-s-workspace-pmmlnf.us-east-1.xata.sh/db/vdaysitioweb",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
